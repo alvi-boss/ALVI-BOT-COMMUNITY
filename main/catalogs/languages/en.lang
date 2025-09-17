@@ -1,0 +1,60 @@
+# includes/listen.js
+listen.startLoadEnvironment=🔄 Hold on! Loading environment settings...
+listen.loadedEnvironmentThread=✅ Thread settings loaded like a pro!
+listen.loadedEnvironmentUser=✅ User settings loaded successfully!
+listen.successLoadEnvironment=🎉 All environment settings are good to go!
+listen.failLoadEnvironment=❌ Oops! Failed to load environment settings. Error: %1
+
+# includes/controller/currencies.js
+currencies.needObjectOrArray=💡 Please provide an array, an object, or maybe both – I can handle it!
+currencies.needObject=📦 I was expecting an object here.
+currencies.needNumber=🔢 Hmm… this should be a number, not something else!
+
+# includes/controller/threads.js
+threads.needObjectOrArray=💡 I need an array, an object, or both to continue.
+threads.needObject=📦 This needs to be an object, not something else.
+
+# includes/controller/users.js
+users.needObjectOrArray=💡 Input must be an array, an object, or both – bring it on!
+users.needObject=📦 Looks like I need an object here to work properly.
+
+# includes/handle/handleCommand.js
+handleCommand.userBanned=🚫 You are banned from using this bot. Please contact an admin.
+handleCommand.threadBanned=🚫 This group is banned from using the bot.
+handleCommand.commandNotExist=❓ Command not found! Try using "%1" instead.
+handleCommand.commandThreadBanned=🚫 The command "%1" is not allowed in this thread.
+handleCommand.commandUserBanned=🚫 You are not allowed to use the command "%1".
+handleCommand.threadNotAllowNSFW=🔞 NSFW commands are blocked in this thread.
+handleCommand.cantGetInfoThread=⚠️ Couldn’t fetch group info. Error: %1
+handleCommand.permissionNotEnough=⛔ You don’t have permission to use the command "%1".
+handleCommand.cantSetMessageReaction=⚡ Failed to react to message. Error: %1
+handleCommand.executeCommand=\n🕒 Time: %1\n📢 Command: %2\n🙍 User ID: %3\n👥 Group ID: %4\n📝 Arguments: %5\n⏱️ Processing Time: %6ms
+handleCommand.commandError=💥 Something went wrong while using the command %1. Error: %2
+handleCommand.notMatched=❗ This command doesn’t require any prefix.
+handleCommand.noPrefix=ℹ️ This command doesn’t have the "usePrefix" option set.
+handleCommand.commandNotFound=❌ Command not found in the system. Please try again!
+
+# includes/handle/handleCommandEvent.js
+handleCommandEvent.moduleError=💥 Something went wrong while using command %1. Error: %2
+
+# includes/handle/handleCreateDatabase.js
+handleCreateDatabase.newThread=✨ ALVI - New group detected: %1\n
+handleCreateDatabase.newUser=✨ ALVI - New user detected: %1\n
+
+# includes/handle/handleEvent.js
+handleEvent.executeEvent=\n🕒 Time: %1\n⚙️ Event: %2\n👥 Group ID: %3\n⏱️ Processing Time: %4ms
+handleEvent.eventError=💥 Oops! Something broke while running event %1. Error: %12
+
+# includes/handle/handleReaction.js
+handleReaction.missingValue=❗ Missing some important information to respond to you.
+handleReaction.executeError=💢 Something went wrong while processing your reaction. Error: %1
+
+# includes/handle/handleReply.js
+handleReply.missingValue=❗ Missing some important information to respond to you.
+handleReply.executeError=💢 Something went wrong while processing your reply. Error: %1
+
+# includes/handle/handleSchedule.js
+handleSchedule.exectuteError=⚡ Scheduling failed in module %1. Error: %2
+
+# utils/index.js
+utils.throwError=🚨 Syntax error detected! Try %1help %2 to learn how to use this properly.
