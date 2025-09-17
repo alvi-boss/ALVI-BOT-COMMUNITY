@@ -1,4 +1,4 @@
-name: ALVI-BOT
+name: IMRAN-BOT
 
 on:
   push:
@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: ALVI-BOT
+      - name: IMRAN-BOT
         run: npm start
