@@ -2,9 +2,9 @@
   "name": "ALVI",
   "version": "1.0.6",
   "description": "simple facebook messenger bot",
-  "main": "main/catalogs/ALVI.js",
+  "main": "main/catalogs/ALVIA.js",
   "scripts": {
-    "start": "node main/catalogs/ALVI.js"
+    "start": "node main/catalogs/ALVIA.js"
   },
   "author": "ALVI",
   "license": "ISC",
