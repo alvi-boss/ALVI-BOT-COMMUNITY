@@ -7,7 +7,7 @@
 ## CLICK <a href="https://github.com/alvi-boss/ALVI-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
-<img src='https://i.imgur.com/ePDUcck.jpeg'/>
+<img src='https://i.imgur.com/1SrDIOM.jpeg'/>
 
 -------
 
@@ -67,7 +67,7 @@ jobs:
         run: npm start
 ```
 
-[![FORK CYBER Ullash ッ ](https://img.shields.io/badge/FORK%20-ALVI%20ALVIッ%20V01-white)](https://github.com/alvi-boss/ALVI-BOT-COMMUNITY/forks)
+[![FORK CYBER ALVI ッ ](https://img.shields.io/badge/FORK%20-ALVI%20ALVIッ%20V01-white)](https://github.com/alvi-boss/ALVI-BOT-COMMUNITY/forks)
 
  
 🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/alvi-boss/ALVI-BOT-COMMUNITY)**
@@ -186,7 +186,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 - ⚡ NUZRUL  
 - 🎩 Grandpa EJ  
 - 🛡️ SAHADAT  
-- 🧠 SUJON  
+- 🧠 IMRAN 
 - 🔧 MAHBUB SHAON  
 - 🌟 NOMAN  
 
