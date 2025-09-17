@@ -1,12 +1,12 @@
 {
-  "name": "IMRAN",
+  "name": "ALVI",
   "version": "1.0.6",
   "description": "simple facebook messenger bot",
-  "main": "main/catalogs/IMRANA.js",
+  "main": "main/catalogs/ALVI.js",
   "scripts": {
-    "start": "node main/catalogs/IMRANA.js"
+    "start": "node main/catalogs/ALVI.js"
   },
-  "author": "IMRAN",
+  "author": "ALVI",
   "license": "ISC",
   "dependencies": {
     "abir-photo360-apis": "^1.0.2",
