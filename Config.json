@@ -14,7 +14,9 @@
   "ADMINBOT": [
     "100082607436864"
   ],
-  "OWNER": ["100082607436864"],
+  "OWNER": [
+    "100082607436864"
+  ],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
